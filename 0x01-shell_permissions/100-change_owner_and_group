@@ -1,3 +1,2 @@
-#!/bin/bash
-# Change owner and group owner for all files and directories in the working directory 
+#!/bin/bash 
 chown -R vincent : staff . /*
